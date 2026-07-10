@@ -1,0 +1,2 @@
+# Lost-Person-Detection-using-Depp-Learning-Algorithm-under-CCTV-Surveillance-
+The problem involves identifying a specific missing person from CCTV video using deep learning techniques. The system must detect people in the camera feed, extract facial features, and match them with the missing person’s reference image. The challenge is to achieve accurate and real-time identification from a single surveillance camera.
